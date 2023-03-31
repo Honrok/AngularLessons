@@ -1,19 +1,19 @@
-*{
+* {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
   font-family: Inter, sans-serif;
 }
-.container{
+.container {
   max-width: 1200px;
   margin: 0 auto;
 }
-.form-control{
+.form-control {
   display: block;
   margin-top: 10px;
   width: 100%;
 }
-.btn{
+.btn {
   background: orange;
   color: white;
   border-radius: 8px;
@@ -25,11 +25,12 @@
   cursor: pointer;
   margin-top: 20px;
 }
-hr{
+hr {
   margin-top: 20px;
 }
-.card{
+.card {
   padding: 50px;
   border: 1px solid black;
   margin-top: 10px;
 }
+/*# sourceMappingURL=styles.css.map */
